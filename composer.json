@@ -17,8 +17,5 @@
             "rebecarubio\\first-package\\": "src/"
         }
     }
-<<<<<<< HEAD:composer.json
+    
 }
-=======
-}
->>>>>>> f2ec5f989983f62b693d3df8c634ea4a89b3d669:hello-composer/composer.json
