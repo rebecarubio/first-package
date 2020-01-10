@@ -1,0 +1,19 @@
+{
+    "name": "rebecarubio/first-package",
+    "description": "My first packagist package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rebe R.",
+            "email": "36491300+rebecarubio@users.noreply.github.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "rebecarubio\\first-package\\": "src/"
+        }
+}
