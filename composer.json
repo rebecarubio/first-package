@@ -6,9 +6,9 @@
         {
             "name": "Rebe R.",
             "email": "36491300+rebecarubio@users.noreply.github.com"
+
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.0"
     },
@@ -16,4 +16,5 @@
         "psr-4": {
             "rebecarubio\\first-package\\": "src/"
         }
+    }
 }
