@@ -1,3 +1,4 @@
+
 {
     "name": "rebecarubio/first-package",
     "description": "My first packagist package",
@@ -18,3 +19,4 @@
         }
     }
 }
+

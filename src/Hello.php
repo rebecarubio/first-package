@@ -1,5 +1,5 @@
-<?php 
 
+<?php 
 /*
  * (c) REBECA RUBIO <rebecarubiolopez@gmail.com>
  *
@@ -17,4 +17,5 @@ class Hello
     {
         return $toSay;
     }
+
 }
